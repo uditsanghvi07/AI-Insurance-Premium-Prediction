@@ -1,2 +1,3 @@
-# AI-Insurance-Premium-Prediction
-An AI-driven insurance premium prediction system that analyzes user data, risk factors, and historical patterns to generate accurate premium estimates. Using machine learning models, it helps insurers automate pricing, improve risk assessment, and deliver faster, more personalized premium predictions.
+An AI-powered insurance premium predictor that analyzes age, BMI, lifestyle, income, city tier, and occupation to estimate premium categories. Built using FastAPI, Streamlit, and a trained ML model, it delivers fast, reliable predictions with confidence scores and insights through a simple, user-friendly interface<img width="1920" height="1080" alt="Screenshot (870)" src="https://github.com/user-attachments/assets/da6226e7-6ebf-4b09-812b-6446c30a01bb" />
+<img width="1920" height="1080" alt="Screenshot (871)" src="https://github.com/user-attachments/assets/63f83e82-74dd-4b22-9d46-90302fb0c3cc" />
+<img width="1920" height="1080" alt="Screenshot (872)" src="https://github.com/user-attachments/assets/7fb18050-2d66-41cc-9eea-a74c3c008c9d" />
